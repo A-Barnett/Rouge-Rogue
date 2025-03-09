@@ -1,4 +1,4 @@
-# Rouge-Rogue
+# Rouge Rogue
 This is a survivor-like 2D game with an upgrade system, fight hordes of enemies to improve and survive, created in Unity.
 
 All assets are my own.
